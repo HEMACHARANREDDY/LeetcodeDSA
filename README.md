@@ -22,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0031-next-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
