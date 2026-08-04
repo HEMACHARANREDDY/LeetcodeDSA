@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0887-super-egg-drop](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0887-super-egg-drop) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
