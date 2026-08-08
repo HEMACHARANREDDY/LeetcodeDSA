@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0071-simplify-path) |
 ## Sliding Window
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0887-super-egg-drop](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
 |  |
