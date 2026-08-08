@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
