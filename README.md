@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0887-super-egg-drop](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0887-super-egg-drop) |
 ## Recursion
 |  |
@@ -88,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
