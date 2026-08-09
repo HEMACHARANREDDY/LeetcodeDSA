@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
