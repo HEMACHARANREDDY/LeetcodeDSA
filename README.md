@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0887-super-egg-drop](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0887-super-egg-drop) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
 ## Stack
 |  |
