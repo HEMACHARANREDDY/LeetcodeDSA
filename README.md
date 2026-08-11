@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0887-super-egg-drop](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0887-super-egg-drop) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0071-simplify-path) |
 ## Linked List
 |  |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
