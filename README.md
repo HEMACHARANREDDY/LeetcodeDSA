@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
