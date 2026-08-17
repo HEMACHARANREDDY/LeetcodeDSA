@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
