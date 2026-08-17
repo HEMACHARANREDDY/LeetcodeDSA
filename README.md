@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0060-permutation-sequence) |
 | [0887-super-egg-drop](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
 | ------- |
