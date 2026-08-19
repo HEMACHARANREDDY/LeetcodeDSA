@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
