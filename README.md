@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -192,13 +194,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0062-unique-paths) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
