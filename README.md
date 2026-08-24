@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0076-minimum-window-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
