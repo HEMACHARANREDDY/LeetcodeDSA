@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HEMACHARANREDDY/LeetcodeDSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
